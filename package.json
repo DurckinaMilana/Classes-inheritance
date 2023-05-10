@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/DurckinaMilana/Classes-inheritance#readme",
   "devDependencies": {
-    "@babel/cli": "file:babel/core@babel/preset-env",
+    "@babel/cli": "^7.21.5",
     "@babel/core": "^7.21.8",
     "@babel/preset-env": "^7.21.5",
     "babel-jest": "^29.5.0",
